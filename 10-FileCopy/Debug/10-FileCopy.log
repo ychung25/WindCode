@@ -1,0 +1,17 @@
+﻿Build started 10/27/2015 10:50:01 AM.
+     1>Project "C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\10-FileCopy\10-FileCopy.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio Community 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt FileCopy.cpp
+         FileCopy.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\FileCopy.res" FileCopy.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio Community 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\10-FileCopy.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\10-FileCopy.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\10-FileCopy.lib" /MACHINE:X86 /SAFESEH Debug\FileCopy.res
+         Debug\FileCopy.obj
+     1>FileCopy.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         10-FileCopy.vcxproj -> C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\10-FileCopy.exe
+     1>Done Building Project "C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\10-FileCopy\10-FileCopy.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.26

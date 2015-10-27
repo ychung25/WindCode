@@ -1,0 +1,17 @@
+﻿Build started 10/27/2015 10:50:15 AM.
+     1>Project "C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\26-CustomizedWER\26-CustomizedWER.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio Community 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt CustomizedWER.cpp
+         CustomizedWER.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\CustomizedWER.res" CustomizedWER.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio Community 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\26-CustomizedWER.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\26-CustomizedWER.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\26-CustomizedWER.lib" /MACHINE:X86 /SAFESEH Debug\CustomizedWER.res
+         Debug\CustomizedWER.obj
+     1>CustomizedWER.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         26-CustomizedWER.vcxproj -> C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\Debug\26-CustomizedWER.exe
+     1>Done Building Project "C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\26-CustomizedWER\26-CustomizedWER.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.94
