@@ -1,2 +1,17 @@
 <?xml version="1.0"?>
-<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\99-MySample\99-MySample.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\17-AppInst\AppInst.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\26-CustomizedWER\CustomizedWER.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\yochung\Documents\GitHubVisualStudio\WindCode\10-FileCopy\FileCopy.cpp</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
